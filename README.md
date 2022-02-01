@@ -9,15 +9,15 @@ ___
 > <summary>C# e Programação Orientada a Objetos</summary>
 >    <summary>
 >        <ul>
->            <li> Fundamentos C#
->            <li> Estrutura de controle de fluxo
->            <li> Trabalhando com Strings
->            <li> Trabalhando com Array e Listas
->            <li> Language Integrated-Query (LINQ)
->            <li> Trabalhando com Datas
->            <li> Trabalhando com Arquivos e Diretórios
->            <li> Debbugging e Exceções
->            <li> Programação Orientada a Objetos
+>            <li> Fundamentos C# </li>
+>            <li> Estrutura de controle de fluxo  </li>
+>            <li> Trabalhando com Strings </li>
+>            <li> Trabalhando com Array e Listas </li>
+>            <li> Language Integrated-Query (LINQ) </li>
+>            <li> Trabalhando com Datas </li>
+>            <li> Trabalhando com Arquivos e Diretórios </li>
+>            <li> Debbugging e Exceções </li>
+>            <li> Programação Orientada a Objetos </li>
 >        </ul>
 >    </summary>
 > </details>
@@ -26,7 +26,7 @@ ___
 > <summary>Formação ASP.NET Core</summary>
 >    <summary>
 >        <ul>
->            <li> Em breve
+>            <li> Em breve </li>
 >        </ul>
 >    </summary>
 > </details>
@@ -35,7 +35,7 @@ ___
 > <summary>Formação Microsserviços com ASP.NET Core</summary>
 >    <summary>
 >        <ul>
->            <li> Em breve
+>            <li> Em breve </li>
 >        </ul>
 >    </summary>
 > </details>
@@ -44,7 +44,7 @@ ___
 > <summary>Mini-Cursos</summary>
 >    <summary>
 >        <ul>
->            <li> Em breve
+>            <li> Em breve </li>
 >        </ul>
 >    </summary>
 > </details>

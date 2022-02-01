@@ -9,15 +9,42 @@ ___
 > <summary>C# e Programação Orientada a Objetos</summary>
 >    <summary>
 >        <ul>
->            <li> Fundamentos C# </li>
->            <li> Estrutura de controle de fluxo  </li>
->            <li> Trabalhando com Strings </li>
->            <li> Trabalhando com Array e Listas </li>
->            <li> Language Integrated-Query (LINQ) </li>
->            <li> Trabalhando com Datas </li>
->            <li> Trabalhando com Arquivos e Diretórios </li>
->            <li> Debbugging e Exceções </li>
->            <li> Programação Orientada a Objetos </li>
+>            <li>
+>               <input type="checkbox" checked disabled="false" /> 
+>                   Fundamentos C# 
+>            </li>
+>            <li>
+>               <input type="checkbox" checked disabled="false" /> 
+>                   Estrutura de controle de fluxo
+>            </li>
+>            <li>
+>               <input type="checkbox" checked disabled="false" /> 
+>                   Trabalhando com Strings
+>            </li>
+>            <li>
+>               <input type="checkbox" checked disabled="false" /> 
+>                   Trabalhando com Array e Listas
+>            </li>
+>            <li>
+>               <input type="checkbox" checked disabled="false" /> 
+>                   Language Integrated-Query (LINQ)
+>            </li>
+>            <li>
+>               <input type="checkbox" checked disabled="false" /> 
+>                   Trabalhando com Datas
+>            </li>
+>            <li>
+>               <input type="checkbox" checked disabled="false" /> 
+>                   Trabalhando com Arquivos e Diretórios
+>            </li>
+>            <li>
+>               <input type="checkbox" checked disabled="false" /> 
+>                   Debbugging e Exceções
+>            </li>
+>            <li>
+>               <input type="checkbox" disabled="false" /> 
+>                   Programação Orientada a Objetos
+>            </li>
 >        </ul>
 >    </summary>
 > </details>
@@ -26,7 +53,10 @@ ___
 > <summary>Formação ASP.NET Core</summary>
 >    <summary>
 >        <ul>
->            <li> Em breve </li>
+>            <li> 
+>               <input type="checkbox" disabled="false" /> 
+>                   Em breve 
+>            </li>
 >        </ul>
 >    </summary>
 > </details>
@@ -35,7 +65,10 @@ ___
 > <summary>Formação Microsserviços com ASP.NET Core</summary>
 >    <summary>
 >        <ul>
->            <li> Em breve </li>
+>            <li> 
+>               <input type="checkbox" disabled="false" /> 
+>                   Em breve 
+>           </li>
 >        </ul>
 >    </summary>
 > </details>
@@ -44,7 +77,11 @@ ___
 > <summary>Mini-Cursos</summary>
 >    <summary>
 >        <ul>
->            <li> Em breve </li>
+>            <li> 
+>               <input type="checkbox" disabled="false" /> 
+>                   Em breve 
+>           </li>
 >        </ul>
 >    </summary>
 > </details>
+

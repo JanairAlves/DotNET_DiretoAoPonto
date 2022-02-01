@@ -3,10 +3,10 @@
 Este repositório armazena o conteúdo estudado na formação **.Net Direto ao Ponto** do Mestre Luis Dev. Interessados nos conteúdos, formações e artigos, podem acessa-las aqui [luisdev.com.br](https://www.luisdev.com.br/pagina-de-cursos/).
 ___
 
+## Conteúdos por módulo
+
 > <details markdown='1'>
-> <summary>
-> Conteúdo do módulo 1: C# e Programação Orientada a Objetos.
-> </summary>
+> <summary>C# e Programação Orientada a Objetos</summary>
 >    <summary>
 >        <ul>
 >            <li> Fundamentos C#
@@ -18,6 +18,33 @@ ___
 >            <li> Trabalhando com Arquivos e Diretórios
 >            <li> Debbugging e Exceções
 >            <li> Programação Orientada a Objetos
+>        </ul>
+>    </summary>
+> </details>
+
+> <details markdown='1'>
+> <summary>Formação ASP.NET Core</summary>
+>    <summary>
+>        <ul>
+>            <li> Em breve
+>        </ul>
+>    </summary>
+> </details>
+
+> <details markdown='1'>
+> <summary>Formação Microsserviços com ASP.NET Core</summary>
+>    <summary>
+>        <ul>
+>            <li> Em breve
+>        </ul>
+>    </summary>
+> </details>
+
+> <details markdown='1'>
+> <summary>Mini-Cursos</summary>
+>    <summary>
+>        <ul>
+>            <li> Em breve
 >        </ul>
 >    </summary>
 > </details>

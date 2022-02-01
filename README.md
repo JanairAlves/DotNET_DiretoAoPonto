@@ -10,39 +10,39 @@ ___
 >    <summary>
 >        <ul>
 >            <li>
->               <input type="checkbox" checked disabled="false" /> 
+>               <input type="checkbox" checked disabled="false" > 
 >                   Fundamentos C# 
 >            </li>
 >            <li>
->               <input type="checkbox" checked disabled="false" /> 
+>               <input type="checkbox" checked disabled="false" > 
 >                   Estrutura de controle de fluxo
 >            </li>
 >            <li>
->               <input type="checkbox" checked disabled="false" /> 
+>               <input type="checkbox" checked disabled="false" > 
 >                   Trabalhando com Strings
 >            </li>
 >            <li>
->               <input type="checkbox" checked disabled="false" /> 
+>               <input type="checkbox" checked disabled="false" > 
 >                   Trabalhando com Array e Listas
 >            </li>
 >            <li>
->               <input type="checkbox" checked disabled="false" /> 
+>               <input type="checkbox" checked disabled="false" > 
 >                   Language Integrated-Query (LINQ)
 >            </li>
 >            <li>
->               <input type="checkbox" checked disabled="false" /> 
+>               <input type="checkbox" checked disabled="false" > 
 >                   Trabalhando com Datas
 >            </li>
 >            <li>
->               <input type="checkbox" checked disabled="false" /> 
+>               <input type="checkbox" checked disabled="false" > 
 >                   Trabalhando com Arquivos e Diretórios
 >            </li>
 >            <li>
->               <input type="checkbox" checked disabled="false" /> 
+>               <input type="checkbox" checked disabled="false" > 
 >                   Debbugging e Exceções
 >            </li>
 >            <li>
->               <input type="checkbox" disabled="false" /> 
+>               <input type="checkbox" disabled="false" > 
 >                   Programação Orientada a Objetos
 >            </li>
 >        </ul>
@@ -54,7 +54,7 @@ ___
 >    <summary>
 >        <ul>
 >            <li> 
->               <input type="checkbox" disabled="false" /> 
+>               <input type="checkbox" disabled="false" > 
 >                   Em breve 
 >            </li>
 >        </ul>
@@ -62,11 +62,11 @@ ___
 > </details>
 
 > <details markdown='1'>
-> <summary>Formação Microsserviços com ASP.NET Core</summary>
+> <summary>Formação Micros Serviços com ASP.NET Core</summary>
 >    <summary>
 >        <ul>
 >            <li> 
->               <input type="checkbox" disabled="false" /> 
+>               <input type="checkbox" disabled="false" > 
 >                   Em breve 
 >           </li>
 >        </ul>
@@ -78,7 +78,7 @@ ___
 >    <summary>
 >        <ul>
 >            <li> 
->               <input type="checkbox" disabled="false" /> 
+>               <input type="checkbox" disabled="false" > 
 >                   Em breve 
 >           </li>
 >        </ul>

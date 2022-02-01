@@ -10,7 +10,7 @@ ___
 >    <summary>
 >        <ul>
 >            <li>
->               <input type="checkbox" checked disabled="false" > 
+>               <input type="checkbox" checked="checked" disabled="false" > 
 >                   Fundamentos C# 
 >            </li>
 >            <li>
@@ -85,3 +85,11 @@ ___
 >    </summary>
 > </details>
 
+<details markdown='1'>
+<summary>Mini-Cursos</summary>
+   <summary>
+            &nbsp&nbsp <input type="checkbox" disabled="false" > Em breve1
+            </br>
+            &nbsp&nbsp <input type="checkbox" checked disabled="false" Border-color="Red"> Em breve2
+   </summary>
+</details>

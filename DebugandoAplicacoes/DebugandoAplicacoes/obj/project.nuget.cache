@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nb72euSm3jnAexpy6kSTsD7RxrHEPHwOkHDECGahMc+HkOr3IlHOyJcdekODbRJB2+0ZUxP87GqfaVkqWOXijg==",
+  "success": true,
+  "projectFilePath": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\DebugandoAplicacoes\\DebugandoAplicacoes\\DebugandoAplicacoes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\janai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\janai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\janai\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

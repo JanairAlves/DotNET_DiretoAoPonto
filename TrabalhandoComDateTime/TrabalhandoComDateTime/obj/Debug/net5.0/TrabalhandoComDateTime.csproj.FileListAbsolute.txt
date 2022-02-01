@@ -1,0 +1,16 @@
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\bin\Debug\net5.0\TrabalhandoComDateTime.exe
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\bin\Debug\net5.0\TrabalhandoComDateTime.deps.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\bin\Debug\net5.0\TrabalhandoComDateTime.runtimeconfig.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\bin\Debug\net5.0\TrabalhandoComDateTime.runtimeconfig.dev.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\bin\Debug\net5.0\TrabalhandoComDateTime.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\bin\Debug\net5.0\ref\TrabalhandoComDateTime.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\bin\Debug\net5.0\TrabalhandoComDateTime.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\obj\Debug\net5.0\TrabalhandoComDateTime.csproj.AssemblyReference.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\obj\Debug\net5.0\TrabalhandoComDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\obj\Debug\net5.0\TrabalhandoComDateTime.AssemblyInfoInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\obj\Debug\net5.0\TrabalhandoComDateTime.AssemblyInfo.cs
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\obj\Debug\net5.0\TrabalhandoComDateTime.csproj.CoreCompileInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\obj\Debug\net5.0\TrabalhandoComDateTime.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\obj\Debug\net5.0\ref\TrabalhandoComDateTime.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\obj\Debug\net5.0\TrabalhandoComDateTime.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComDateTime\TrabalhandoComDateTime\obj\Debug\net5.0\TrabalhandoComDateTime.genruntimeconfig.cache

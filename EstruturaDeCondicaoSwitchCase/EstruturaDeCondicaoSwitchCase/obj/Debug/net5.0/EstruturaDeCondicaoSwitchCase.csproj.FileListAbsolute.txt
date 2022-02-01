@@ -1,0 +1,16 @@
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\bin\Debug\net5.0\EstruturaDeCondicaoSwitchCase.exe
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\bin\Debug\net5.0\EstruturaDeCondicaoSwitchCase.deps.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\bin\Debug\net5.0\EstruturaDeCondicaoSwitchCase.runtimeconfig.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\bin\Debug\net5.0\EstruturaDeCondicaoSwitchCase.runtimeconfig.dev.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\bin\Debug\net5.0\EstruturaDeCondicaoSwitchCase.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\bin\Debug\net5.0\ref\EstruturaDeCondicaoSwitchCase.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\bin\Debug\net5.0\EstruturaDeCondicaoSwitchCase.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\obj\Debug\net5.0\EstruturaDeCondicaoSwitchCase.csproj.AssemblyReference.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\obj\Debug\net5.0\EstruturaDeCondicaoSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\obj\Debug\net5.0\EstruturaDeCondicaoSwitchCase.AssemblyInfoInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\obj\Debug\net5.0\EstruturaDeCondicaoSwitchCase.AssemblyInfo.cs
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\obj\Debug\net5.0\EstruturaDeCondicaoSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\obj\Debug\net5.0\EstruturaDeCondicaoSwitchCase.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\obj\Debug\net5.0\ref\EstruturaDeCondicaoSwitchCase.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\obj\Debug\net5.0\EstruturaDeCondicaoSwitchCase.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoSwitchCase\EstruturaDeCondicaoSwitchCase\obj\Debug\net5.0\EstruturaDeCondicaoSwitchCase.genruntimeconfig.cache

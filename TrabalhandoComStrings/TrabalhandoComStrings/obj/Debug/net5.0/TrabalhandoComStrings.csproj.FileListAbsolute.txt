@@ -1,0 +1,16 @@
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.csproj.AssemblyReference.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.AssemblyInfoInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.AssemblyInfo.cs
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.csproj.CoreCompileInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\bin\Debug\net5.0\TrabalhandoComStrings.exe
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\bin\Debug\net5.0\TrabalhandoComStrings.deps.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\bin\Debug\net5.0\TrabalhandoComStrings.runtimeconfig.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\bin\Debug\net5.0\TrabalhandoComStrings.runtimeconfig.dev.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\bin\Debug\net5.0\TrabalhandoComStrings.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\bin\Debug\net5.0\ref\TrabalhandoComStrings.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\bin\Debug\net5.0\TrabalhandoComStrings.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\obj\Debug\net5.0\ref\TrabalhandoComStrings.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TrabalhandoComStrings\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.genruntimeconfig.cache

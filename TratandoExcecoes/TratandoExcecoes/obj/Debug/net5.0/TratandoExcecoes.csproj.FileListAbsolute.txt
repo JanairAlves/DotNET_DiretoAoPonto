@@ -1,0 +1,16 @@
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\bin\Debug\net5.0\TratandoExcecoes.exe
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\bin\Debug\net5.0\TratandoExcecoes.deps.json
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\bin\Debug\net5.0\TratandoExcecoes.runtimeconfig.json
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\bin\Debug\net5.0\TratandoExcecoes.runtimeconfig.dev.json
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\bin\Debug\net5.0\TratandoExcecoes.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\bin\Debug\net5.0\ref\TratandoExcecoes.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\bin\Debug\net5.0\TratandoExcecoes.pdb
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\obj\Debug\net5.0\TratandoExcecoes.csproj.AssemblyReference.cache
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\obj\Debug\net5.0\TratandoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\obj\Debug\net5.0\TratandoExcecoes.AssemblyInfoInputs.cache
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\obj\Debug\net5.0\TratandoExcecoes.AssemblyInfo.cs
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\obj\Debug\net5.0\TratandoExcecoes.csproj.CoreCompileInputs.cache
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\obj\Debug\net5.0\TratandoExcecoes.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\obj\Debug\net5.0\ref\TratandoExcecoes.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\obj\Debug\net5.0\TratandoExcecoes.pdb
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\TratandoExcecoes\TratandoExcecoes\obj\Debug\net5.0\TratandoExcecoes.genruntimeconfig.cache

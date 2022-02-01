@@ -1,0 +1,16 @@
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.csproj.AssemblyReference.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.AssemblyInfoInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.AssemblyInfo.cs
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.csproj.CoreCompileInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\bin\Debug\net5.0\DebugandoAplicacoes.exe
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\bin\Debug\net5.0\DebugandoAplicacoes.deps.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\bin\Debug\net5.0\DebugandoAplicacoes.runtimeconfig.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\bin\Debug\net5.0\DebugandoAplicacoes.runtimeconfig.dev.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\bin\Debug\net5.0\DebugandoAplicacoes.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\bin\Debug\net5.0\ref\DebugandoAplicacoes.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\bin\Debug\net5.0\DebugandoAplicacoes.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\obj\Debug\net5.0\ref\DebugandoAplicacoes.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\DebugandoAplicacoes\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.genruntimeconfig.cache

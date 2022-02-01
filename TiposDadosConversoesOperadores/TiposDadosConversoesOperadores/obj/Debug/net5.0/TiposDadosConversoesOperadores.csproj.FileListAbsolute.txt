@@ -1,0 +1,16 @@
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\bin\Debug\net5.0\TiposDadosConversoesOperadores.exe
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\bin\Debug\net5.0\TiposDadosConversoesOperadores.deps.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\bin\Debug\net5.0\TiposDadosConversoesOperadores.runtimeconfig.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\bin\Debug\net5.0\TiposDadosConversoesOperadores.runtimeconfig.dev.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\bin\Debug\net5.0\TiposDadosConversoesOperadores.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\bin\Debug\net5.0\ref\TiposDadosConversoesOperadores.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\bin\Debug\net5.0\TiposDadosConversoesOperadores.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\obj\Debug\net5.0\TiposDadosConversoesOperadores.csproj.AssemblyReference.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\obj\Debug\net5.0\TiposDadosConversoesOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\obj\Debug\net5.0\TiposDadosConversoesOperadores.AssemblyInfoInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\obj\Debug\net5.0\TiposDadosConversoesOperadores.AssemblyInfo.cs
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\obj\Debug\net5.0\TiposDadosConversoesOperadores.csproj.CoreCompileInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\obj\Debug\net5.0\TiposDadosConversoesOperadores.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\obj\Debug\net5.0\ref\TiposDadosConversoesOperadores.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\obj\Debug\net5.0\TiposDadosConversoesOperadores.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\TiposDadosConversoesOperadores\TiposDadosConversoesOperadores\obj\Debug\net5.0\TiposDadosConversoesOperadores.genruntimeconfig.cache

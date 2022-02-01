@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IgwolS+tUTeaOmDEZzW0PS5jJGca52REgjOy7DeJDeX4fv2UKBucr60+Lnpqo+rOQrycwah9kHjU5VeVl1M6Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janai\\OneDrive\\Área de Trabalho\\LuisDev\\DotNET_DiretoAoPonto\\CSharpDiretoAoPontoHelloWorld\\CSharpDiretoAoPontoHelloWorld\\CSharpDiretoAoPontoHelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

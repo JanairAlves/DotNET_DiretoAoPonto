@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RUSfE7Y0eOKIevxq8hk4hbI4s9ncS2B3nwSrTjtWi2yBfER9DRD6yvwa+GCPkEiKShmrTKe2hpIyuzPjmxdpAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janai\\OneDrive\\Área de Trabalho\\LuisDev\\DotNET_DiretoAoPonto\\EstruturaDeCondicaoIfElse\\EstruturaDeCondicaoIfElse\\EstruturaDeCondicaoIfElse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

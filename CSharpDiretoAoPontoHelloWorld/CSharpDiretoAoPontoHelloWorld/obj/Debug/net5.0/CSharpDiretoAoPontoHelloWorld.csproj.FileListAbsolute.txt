@@ -1,0 +1,16 @@
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.exe
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.deps.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.runtimeconfig.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.runtimeconfig.dev.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\ref\CSharpDiretoAoPontoHelloWorld.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.csproj.AssemblyReference.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.AssemblyInfoInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.AssemblyInfo.cs
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\ref\CSharpDiretoAoPontoHelloWorld.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\CSharpDiretoAoPontoHelloWorld\CSharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CSharpDiretoAoPontoHelloWorld.genruntimeconfig.cache

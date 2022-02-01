@@ -1,0 +1,16 @@
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\obj\Debug\net5.0\ArrayListasLinq.csproj.AssemblyReference.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\obj\Debug\net5.0\ArrayListasLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\obj\Debug\net5.0\ArrayListasLinq.AssemblyInfoInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\obj\Debug\net5.0\ArrayListasLinq.AssemblyInfo.cs
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\obj\Debug\net5.0\ArrayListasLinq.csproj.CoreCompileInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\bin\Debug\net5.0\ArrayListasLinq.exe
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\bin\Debug\net5.0\ArrayListasLinq.deps.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\bin\Debug\net5.0\ArrayListasLinq.runtimeconfig.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\bin\Debug\net5.0\ArrayListasLinq.runtimeconfig.dev.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\bin\Debug\net5.0\ArrayListasLinq.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\bin\Debug\net5.0\ref\ArrayListasLinq.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\bin\Debug\net5.0\ArrayListasLinq.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\obj\Debug\net5.0\ArrayListasLinq.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\obj\Debug\net5.0\ref\ArrayListasLinq.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\obj\Debug\net5.0\ArrayListasLinq.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\ArrayListasLinq\ArrayListasLinq\obj\Debug\net5.0\ArrayListasLinq.genruntimeconfig.cache

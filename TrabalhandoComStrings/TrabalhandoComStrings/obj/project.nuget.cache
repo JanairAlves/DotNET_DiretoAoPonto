@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcUosiWbNL0xIey+Ee3lbXnK+LJYjmQNd+tLvWfK1u64JrzZSjzXzOUElKkOl3ipMCRvSJoArSYt1of+vvzu1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janai\\OneDrive\\Área de Trabalho\\LuisDev\\DotNET_DiretoAoPonto\\TrabalhandoComStrings\\TrabalhandoComStrings\\TrabalhandoComStrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

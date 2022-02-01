@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p71vjHJn/e+UQDQLRhecXxnVAfnfJIQrNtHupSEes0+WDsVUmL1EwrxEySbqsHB3k0q0tjt3A7sonMX41aN0IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janai\\OneDrive\\Área de Trabalho\\LuisDev\\DotNET_DiretoAoPonto\\ArrayListasLinq\\ArrayListasLinq\\ArrayListasLinq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "88uDSwnfNNuBtq2icczepi0f0pP36y7J/47McMFPrtn+XD3nhdasqNmlpnFLYL/np8xikHqZHDyo7yJ0CAGrbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janai\\OneDrive\\Área de Trabalho\\LuisDev\\DotNET_DiretoAoPonto\\EstruturaDeCondicaoSwitchCase\\EstruturaDeCondicaoSwitchCase\\EstruturaDeCondicaoSwitchCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

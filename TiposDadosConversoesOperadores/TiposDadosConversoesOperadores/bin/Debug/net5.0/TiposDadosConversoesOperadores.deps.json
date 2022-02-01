@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TiposDadosConversoesOperadores/1.0.0": {
+        "runtime": {
+          "TiposDadosConversoesOperadores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TiposDadosConversoesOperadores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\bin\Debug\net5.0\EstruturaDeCondicaoIfElse.exe
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\bin\Debug\net5.0\EstruturaDeCondicaoIfElse.deps.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\bin\Debug\net5.0\EstruturaDeCondicaoIfElse.runtimeconfig.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\bin\Debug\net5.0\EstruturaDeCondicaoIfElse.runtimeconfig.dev.json
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\bin\Debug\net5.0\EstruturaDeCondicaoIfElse.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\bin\Debug\net5.0\ref\EstruturaDeCondicaoIfElse.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\bin\Debug\net5.0\EstruturaDeCondicaoIfElse.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\obj\Debug\net5.0\EstruturaDeCondicaoIfElse.csproj.AssemblyReference.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\obj\Debug\net5.0\EstruturaDeCondicaoIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\obj\Debug\net5.0\EstruturaDeCondicaoIfElse.AssemblyInfoInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\obj\Debug\net5.0\EstruturaDeCondicaoIfElse.AssemblyInfo.cs
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\obj\Debug\net5.0\EstruturaDeCondicaoIfElse.csproj.CoreCompileInputs.cache
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\obj\Debug\net5.0\EstruturaDeCondicaoIfElse.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\obj\Debug\net5.0\ref\EstruturaDeCondicaoIfElse.dll
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\obj\Debug\net5.0\EstruturaDeCondicaoIfElse.pdb
+C:\Users\janai\OneDrive\Área de Trabalho\LuisDev\DotNET_DiretoAoPonto\EstruturaDeCondicaoIfElse\EstruturaDeCondicaoIfElse\obj\Debug\net5.0\EstruturaDeCondicaoIfElse.genruntimeconfig.cache

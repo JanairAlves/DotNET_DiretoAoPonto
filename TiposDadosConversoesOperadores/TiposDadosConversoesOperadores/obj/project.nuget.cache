@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aytllOpdCHPX6yBh+yig5UtimeL5SSamtdB3HY0SOE5zE1gmWT8PWXR+RQ7b8UoWNYAXCLCSt4aP4SNy3tZlFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janai\\OneDrive\\Área de Trabalho\\LuisDev\\DotNET_DiretoAoPonto\\TiposDadosConversoesOperadores\\TiposDadosConversoesOperadores\\TiposDadosConversoesOperadores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

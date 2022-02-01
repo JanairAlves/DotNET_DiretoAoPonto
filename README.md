@@ -6,7 +6,7 @@ ___
 ## Conteúdos por módulo
 
 > <details markdown='1'>
-> <summary>C# e Programação Orientada a Objetos</summary>
+> <summary><a href="https://github.com/JanairAlves/DotNET_DiretoAoPonto/tree/master/CSharpEProgramacaoOrientadaAObjetos">C# e Programação Orientada a Objetos</a></summary>
 >    <summary>
 >        <ul>
 >            <li>

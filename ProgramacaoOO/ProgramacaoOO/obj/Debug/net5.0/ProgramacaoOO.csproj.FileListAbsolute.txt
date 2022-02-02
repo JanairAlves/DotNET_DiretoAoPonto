@@ -1,0 +1,16 @@
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\bin\Debug\net5.0\ProgramacaoOO.exe
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\bin\Debug\net5.0\ProgramacaoOO.deps.json
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\bin\Debug\net5.0\ProgramacaoOO.runtimeconfig.json
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\bin\Debug\net5.0\ProgramacaoOO.runtimeconfig.dev.json
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\bin\Debug\net5.0\ProgramacaoOO.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\bin\Debug\net5.0\ref\ProgramacaoOO.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\bin\Debug\net5.0\ProgramacaoOO.pdb
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\obj\Debug\net5.0\ProgramacaoOO.csproj.AssemblyReference.cache
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\obj\Debug\net5.0\ProgramacaoOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\obj\Debug\net5.0\ProgramacaoOO.AssemblyInfoInputs.cache
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\obj\Debug\net5.0\ProgramacaoOO.AssemblyInfo.cs
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\obj\Debug\net5.0\ProgramacaoOO.csproj.CoreCompileInputs.cache
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\obj\Debug\net5.0\ProgramacaoOO.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\obj\Debug\net5.0\ref\ProgramacaoOO.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\obj\Debug\net5.0\ProgramacaoOO.pdb
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\ProgramacaoOO\ProgramacaoOO\obj\Debug\net5.0\ProgramacaoOO.genruntimeconfig.cache

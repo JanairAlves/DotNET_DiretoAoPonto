@@ -5,91 +5,38 @@ ___
 
 ## Conteúdos por módulo
 
-> <details markdown='1'>
-> <summary><a href="https://github.com/JanairAlves/DotNET_DiretoAoPonto/tree/master/CSharpEProgramacaoOrientadaAObjetos">C# e Programação Orientada a Objetos</a></summary>
->    <summary>
->        <ul>
->            <li>
->               <input type="checkbox" checked="checked" disabled="false" > 
->                   Fundamentos C# 
->            </li>
->            <li>
->               <input type="checkbox" checked disabled="false" > 
->                   Estrutura de controle de fluxo
->            </li>
->            <li>
->               <input type="checkbox" checked disabled="false" > 
->                   Trabalhando com Strings
->            </li>
->            <li>
->               <input type="checkbox" checked disabled="false" > 
->                   Trabalhando com Array e Listas
->            </li>
->            <li>
->               <input type="checkbox" checked disabled="false" > 
->                   Language Integrated-Query (LINQ)
->            </li>
->            <li>
->               <input type="checkbox" checked disabled="false" > 
->                   Trabalhando com Datas
->            </li>
->            <li>
->               <input type="checkbox" checked disabled="false" > 
->                   Trabalhando com Arquivos e Diretórios
->            </li>
->            <li>
->               <input type="checkbox" checked disabled="false" > 
->                   Debbugging e Exceções
->            </li>
->            <li>
->               <input type="checkbox" disabled="false" > 
->                   Programação Orientada a Objetos
->            </li>
->        </ul>
->    </summary>
-> </details>
+<details markdown='1'>
+<summary><a href="https://github.com/JanairAlves/DotNET_DiretoAoPonto/tree/master/CSharpEProgramacaoOrientadaAObjetos">C# e Programação Orientada a Objetos</a></summary>
 
-> <details markdown='1'>
-> <summary>Formação ASP.NET Core</summary>
->    <summary>
->        <ul>
->            <li> 
->               <input type="checkbox" disabled="false" > 
->                   Em breve 
->            </li>
->        </ul>
->    </summary>
-> </details>
+- [X] Fundamentos C# 
+- [X] Estrutura de controle de fluxo
+- [X] Trabalhando com Strings
+- [X] Trabalhando com Array e Listas
+- [X] Language Integrated-Query (LINQ)
+- [X] Trabalhando com Datas
+- [X] Trabalhando com Arquivos e Diretórios
+- [X] Debbugging e Exceções
+- [ ] Programação Orientada a Objetos
 
-> <details markdown='1'>
-> <summary>Formação Micros Serviços com ASP.NET Core</summary>
->    <summary>
->        <ul>
->            <li> 
->               <input type="checkbox" disabled="false" > 
->                   Em breve 
->           </li>
->        </ul>
->    </summary>
-> </details>
+</details>
 
-> <details markdown='1'>
-> <summary>Mini-Cursos</summary>
->    <summary>
->        <ul>
->            <li> 
->               <input type="checkbox" disabled="false" > 
->                   Em breve 
->           </li>
->        </ul>
->    </summary>
-> </details>
+<details markdown='1'>
+<summary>Formação ASP.NET Core</summary>
+
+- [ ] Em breve 
+
+</details>
+
+<details markdown='1'>
+<summary>Formação Micros Serviços com ASP.NET Core</summary>
+
+- [ ] Em breve 
+
+</details>
 
 <details markdown='1'>
 <summary>Mini-Cursos</summary>
-   <summary>
-            &nbsp&nbsp <input type="checkbox" disabled="false" > Em breve1
-            </br>
-            &nbsp&nbsp <input type="checkbox" checked disabled="false" Border-color="Red"> Em breve2
-   </summary>
+
+- [ ] Em breve 
+
 </details>

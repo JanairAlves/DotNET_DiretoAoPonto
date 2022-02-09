@@ -21,9 +21,21 @@ ___
 </details>
 
 <details markdown='1'>
-<summary>Formação ASP.NET Core</summary>
+<summary><a href="https://github.com/JanairAlves/DotNET_DiretoAoPonto/tree/master/FormacaoASPNETCore/DevFreela">Formação ASP.NET Core</a></summary>
 
-- [ ] Em breve 
+- [X] Apresentação
+- [X] Projeto a ser desenvolvido
+- [ ] Desenvolvimento de APIs com ASP.NET Core
+- [ ] Arquitetura Limpa
+- [ ] Persistência com Entity Framework Core
+- [ ] Command Query Responsibility Segregation (CQRS)
+- [ ] Padrão Repository
+- [ ] Validação de APIs
+- [ ] Autenticação e Autorização com JWT
+- [ ] Testes Unitários com xUnit
+- [ ] Azure DevOps
+- [ ] Microsserviços e Mensageria
+- [ ] Carreira em .NET
 
 </details>
 

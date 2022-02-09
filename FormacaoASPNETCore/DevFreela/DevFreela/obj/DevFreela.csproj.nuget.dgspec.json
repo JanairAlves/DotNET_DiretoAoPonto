@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\CSharpEProgramacaoOrientadaAObjetos\\ProgramacaoOO\\ProgramacaoOO\\ProgramacaoOO.csproj": {}
+    "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela\\DevFreela.csproj": {}
   },
   "projects": {
-    "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\CSharpEProgramacaoOrientadaAObjetos\\ProgramacaoOO\\ProgramacaoOO\\ProgramacaoOO.csproj": {
+    "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela\\DevFreela.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\CSharpEProgramacaoOrientadaAObjetos\\ProgramacaoOO\\ProgramacaoOO\\ProgramacaoOO.csproj",
-        "projectName": "ProgramacaoOO",
-        "projectPath": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\CSharpEProgramacaoOrientadaAObjetos\\ProgramacaoOO\\ProgramacaoOO\\ProgramacaoOO.csproj",
+        "projectUniqueName": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela\\DevFreela.csproj",
+        "projectName": "DevFreela",
+        "projectPath": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela\\DevFreela.csproj",
         "packagesPath": "C:\\Users\\janai\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\CSharpEProgramacaoOrientadaAObjetos\\ProgramacaoOO\\ProgramacaoOO\\obj\\",
+        "outputPath": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,6 +50,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

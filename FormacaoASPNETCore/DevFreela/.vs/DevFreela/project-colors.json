@@ -10,7 +10,17 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Arquivos Diversos",
       "ColorIndex": -1
+    },
+    "b574e438-1451-4add-972a-ff67faff7761": {
+      "ProjectGuid": "b574e438-1451-4add-972a-ff67faff7761",
+      "DisplayName": "DevFreela.Core",
+      "ColorIndex": 1
+    },
+    "26a65111-1392-475c-898b-cb3ca23e3dd6": {
+      "ProjectGuid": "26a65111-1392-475c-898b-cb3ca23e3dd6",
+      "DisplayName": "DevFreela.Infrastructure",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

@@ -1,6 +1,5 @@
 ﻿using DevFreela.API.Models;
 using Microsoft.AspNetCore.Mvc;
-using System;
 
 namespace DevFreela.API.Controllers
 {

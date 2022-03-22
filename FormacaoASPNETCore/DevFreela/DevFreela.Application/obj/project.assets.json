@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "DevFreela.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DevFreela.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevFreela.Core.dll": {}
+        }
+      },
+      "DevFreela.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DevFreela.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DevFreela.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevFreela.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevFreela.Core/1.0.0": {
+      "type": "project",
+      "path": "../DevFreela.Core/DevFreela.Core.csproj",
+      "msbuildProject": "../DevFreela.Core/DevFreela.Core.csproj"
+    },
+    "DevFreela.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../DevFreela.Infrastructure/DevFreela.Infrastructure.csproj",
+      "msbuildProject": "../DevFreela.Infrastructure/DevFreela.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "DevFreela.Core >= 1.0.0",
+      "DevFreela.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\janai\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+      "projectName": "DevFreela.Application",
+      "projectPath": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+      "packagesPath": "C:\\Users\\janai\\.nuget\\packages\\",
+      "outputPath": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\janai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+              "projectPath": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+            },
+            "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj": {
+              "projectPath": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

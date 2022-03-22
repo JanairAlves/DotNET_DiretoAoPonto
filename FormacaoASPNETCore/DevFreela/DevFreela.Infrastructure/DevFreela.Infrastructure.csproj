@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="CloudServices\Inferfaces\" />
     <Folder Include="Persistence\Repositories\" />
   </ItemGroup>
 

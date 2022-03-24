@@ -5,7 +5,6 @@ D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFree
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.API.runtimeconfig.json
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.API.runtimeconfig.dev.json
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.API.dll
-D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\ref\DevFreela.API.dll
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.API.pdb
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -26,3 +25,4 @@ D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFree
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\obj\Debug\net5.0\ref\DevFreela.API.dll
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.pdb
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.genruntimeconfig.cache
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\obj\Debug\net5.0\refint\DevFreela.API.dll

@@ -26,3 +26,9 @@ D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFree
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.pdb
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.genruntimeconfig.cache
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\obj\Debug\net5.0\refint\DevFreela.API.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Application.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Core.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Infrastructure.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Application.pdb
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Infrastructure.pdb

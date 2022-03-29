@@ -17,6 +17,12 @@ namespace DevFreela.Application.Services.Implementations
 
         public List<UserDetailsViewModel> GetAll(string query)
         {
+            var users = _dbContext.Users;
+            var usersViewModel = users
+                .Select(u => new UserDetailsViewModel(u.Id, u.Fullname, u.Email, u.BirthDate, u.CreatedAt, u.Active))
+                .ToList();
+
+            return usersViewModel;
 
         }
 
@@ -45,12 +51,15 @@ namespace DevFreela.Application.Services.Implementations
 
         public void Update(UpdateUserInputModel inputModel)
         {
+            var user = _dbContext.Users.SingleOrDefault(u => u.Id == inputModel.Id);
 
+            user.Update(inputModel.Fullname, inputModel.Email, inputModel.BirthDate , inputModel.Active);
         }
 
         public void Delete(int id)
         {
-
+            var user = _dbContext.Users.SingleOrDefault(u => u.Id == id);
+            user.Cancel();
         }
     }
 }

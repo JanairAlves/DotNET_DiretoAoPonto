@@ -1,7 +1,7 @@
 ﻿
 namespace DevFreela.Application.ViewModels
 {
-    public class CreateCommetInputModel
+    public class CreateCommentInputModel
     {
         public string Content { get; set; }
         public int IdProject { get; set; }

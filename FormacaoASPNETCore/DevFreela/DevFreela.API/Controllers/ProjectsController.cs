@@ -1,16 +1,17 @@
 ﻿using DevFreela.API.Models;
+using DevFreela.Application.Services.Interfaces;
+using DevFreela.Application.ViewModels;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Options;
 
 namespace DevFreela.API.Controllers
 {
     [Route("api/projects")]
     public class ProjectsController : ControllerBase
     {
-        private readonly OpeningTimeOption _option;
-        public ProjectsController(IOptions<OpeningTimeOption> option)
+        private readonly IProjectService _projectService;
+        public ProjectsController(IProjectService projectService)
         {
-            _option = option.Value;
+            _projectService = projectService;
         }
 
         /* Entendimento de funcionamento até o momento.
@@ -23,8 +24,8 @@ namespace DevFreela.API.Controllers
         [HttpGet]
         public IActionResult Get(string query)
         {
-            // Buscar todos ou filtrar.
-            return Ok();
+            var projects = _projectService.GetAll(query);
+            return Ok(projects);
         }
 
         /* Dúvida
@@ -37,19 +38,24 @@ namespace DevFreela.API.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            // return NotFound(); << se não encontrar o parâmetro enviado, o retorno será Not Found. >>
-
             // Buscar o projeto.
-            return Ok();
+            var project = _projectService.GetById(id);
+
+            if(project == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(project);
         }
 
         /* Notação FromBody
          * Que quer dizer corpo da requisição
          */
         [HttpPost]
-        public IActionResult Post([FromBody] CreateProjectModel createProject)
+        public IActionResult Post([FromBody] NewProjectInputModel inputModel)
         {
-            if (createProject.Title.Length > 50)
+            if (inputModel.Title.Length > 50)
             {
                 return BadRequest();
             }
@@ -59,18 +65,22 @@ namespace DevFreela.API.Controllers
              * nameof(GetByAction)....
              */
 
+            var id = _projectService.Create(inputModel);
+
             //Cadastrar o projeto.
-            return CreatedAtAction(nameof(GetById), new { id = createProject.Id }, createProject);
+            return CreatedAtAction(nameof(GetById), new { id = id }, inputModel);
         }
 
         // api/projects/2  << o número é o parâmetro recebido pelo método IActionResult >>
         [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] UpdateProjectModel updateProject)
+        public IActionResult Put(int id, [FromBody] UpdateProjectInputModel inputModel)
         {
-            if (updateProject.Description.Length > 200)
+            if (inputModel.Description.Length > 200)
             {
                 return BadRequest();
             }
+
+            _projectService.Update(inputModel);
 
             // Atualizo o objeto.
             return NoContent();
@@ -80,7 +90,7 @@ namespace DevFreela.API.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            //Buscar, se não existir, retornar NotFound.
+            _projectService.Delete(id);
 
             // Remover
             return NoContent();
@@ -88,8 +98,10 @@ namespace DevFreela.API.Controllers
 
         // api/projects/1/comments POST
         [HttpPost("{id}/comments")]
-        public IActionResult PostComment(int id, [FromBody] CreateCommentModel createComment)
+        public IActionResult PostComment(int id, [FromBody] CreateCommentInputModel inputModel)
         {
+            _projectService.CreateComment(inputModel);
+
             return NoContent();
         }
         
@@ -97,6 +109,8 @@ namespace DevFreela.API.Controllers
         [HttpPut("{id}/start")]
         public IActionResult Start(int id)
         {
+            _projectService.Start(id);
+
             return NoContent();
         }
 
@@ -104,6 +118,8 @@ namespace DevFreela.API.Controllers
         [HttpPut("{id}/finish")]
         public IActionResult Finish(int id)
         {
+            _projectService.Finish(id);
+
             return NoContent();
         }
 

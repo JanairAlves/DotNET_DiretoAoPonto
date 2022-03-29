@@ -27,5 +27,21 @@ namespace DevFreela.Core.Entities
         public List<UserSkill> Skills { get; private set; }
         public List<Project> OwnedProjects { get; private set; }
         public List<Project> FreelanceProjects { get; set; }
+
+        public void Update(string fullName, string email, DateTime bithDate, bool active)
+        {
+            Fullname = fullName;
+            Email = email;
+            BirthDate = bithDate;
+            Active = active;
+        }
+
+        public void Cancel()
+        {
+            if(Active == true)
+            {
+                Active = false;
+            }
+        }
     }
 }

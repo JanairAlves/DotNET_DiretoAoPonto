@@ -1,0 +1,12 @@
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.deps.json
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.AssemblyReference.cache
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfoInputs.cache
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfo.cs
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.CoreCompileInputs.cache
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\refint\DevFreela.Core.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.pdb
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\ref\DevFreela.Core.dll

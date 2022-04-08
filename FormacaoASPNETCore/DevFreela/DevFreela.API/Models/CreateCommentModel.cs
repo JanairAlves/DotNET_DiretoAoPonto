@@ -2,6 +2,6 @@
 {
     public class CreateCommentModel
     {
-        public string content { get; set; }
+        public string Content { get; set; }
     }
 }

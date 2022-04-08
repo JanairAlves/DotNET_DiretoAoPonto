@@ -1,6 +1,5 @@
-﻿using DevFreela.API.Models;
-using DevFreela.Application.Services.Interfaces;
-using DevFreela.Application.ViewModels;
+﻿using DevFreela.Application.Services.Interfaces;
+using DevFreela.Application.InputModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DevFreela.API.Controllers

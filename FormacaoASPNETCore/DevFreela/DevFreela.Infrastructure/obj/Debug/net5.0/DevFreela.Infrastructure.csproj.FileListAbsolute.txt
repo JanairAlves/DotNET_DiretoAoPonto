@@ -13,3 +13,6 @@ D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFree
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\refint\DevFreela.Infrastructure.dll
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.pdb
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\ref\DevFreela.Infrastructure.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.runtimeconfig.json
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.runtimeconfig.dev.json
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.genruntimeconfig.cache

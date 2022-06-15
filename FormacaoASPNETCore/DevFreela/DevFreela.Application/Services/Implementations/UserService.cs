@@ -20,7 +20,7 @@ namespace DevFreela.Application.Services.Implementations
         {
             var users = _dbContext.Users;
             var usersViewModel = users
-                .Select(u => new UserDetailsViewModel(u.Id, u.Fullname, u.Email, u.BirthDate, u.CreatedAt, u.Active))
+                .Select(u => new UserDetailsViewModel(u.Id, u.FullName, u.Email, u.BirthDate, u.CreatedAt, u.Active))
                 .ToList();
 
             return usersViewModel;
@@ -32,7 +32,7 @@ namespace DevFreela.Application.Services.Implementations
             var user = _dbContext.Users.SingleOrDefault(u => u.Id == id);
             var userDetailsViewModel = new UserDetailsViewModel(
                 user.Id,
-                user.Fullname,
+                user.FullName,
                 user.Email,
                 user.BirthDate,                
                 user.CreatedAt,
@@ -44,8 +44,9 @@ namespace DevFreela.Application.Services.Implementations
 
         public int Create(NewUserInputModel inputModel)
         {
-            var user = new User(inputModel.Fullname, inputModel.Email, inputModel.BirthDate);
+            var user = new User(inputModel.FullName, inputModel.Email, inputModel.BirthDate);
             _dbContext.Users.Add(user);
+            _dbContext.SaveChanges();
 
             return user.Id;
         }
@@ -54,13 +55,15 @@ namespace DevFreela.Application.Services.Implementations
         {
             var user = _dbContext.Users.SingleOrDefault(u => u.Id == inputModel.Id);
 
-            user.Update(inputModel.Fullname, inputModel.Email, inputModel.BirthDate , inputModel.Active);
+            user.Update(inputModel.FullName, inputModel.Email, inputModel.BirthDate , inputModel.Active);
+            _dbContext.SaveChanges();
         }
 
         public void Delete(int id)
         {
             var user = _dbContext.Users.SingleOrDefault(u => u.Id == id);
             user.Cancel();
+            _dbContext.SaveChanges();
         }
     }
 }

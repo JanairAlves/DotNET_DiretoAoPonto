@@ -27,7 +27,7 @@ ___
 - [X] Projeto a ser desenvolvido
 - [X] Desenvolvimento de APIs com ASP.NET Core
 - [X] Arquitetura Limpa
-- [ ] Persistência com Entity Framework Core
+- [X] Persistência com Entity Framework Core
 - [ ] Command Query Responsibility Segregation (CQRS)
 - [ ] Padrão Repository
 - [ ] Validação de APIs

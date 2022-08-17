@@ -9,12 +9,12 @@ namespace DevFreela.Infrastructure.Persistence.Configurations
         public void Configure(EntityTypeBuilder<User> builder)
         {
             builder
-                .HasKey(s => s.Id);
-
+                .HasKey(u => u.Id);
+            
             builder
                 .HasMany(u => u.Skills)
                 .WithOne()
-                .HasForeignKey(u => u.IdSkill)
+                .HasForeignKey(us => us.IdSkill)
                 .OnDelete(DeleteBehavior.Restrict);
         }
     }

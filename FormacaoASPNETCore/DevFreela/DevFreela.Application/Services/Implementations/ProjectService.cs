@@ -25,7 +25,7 @@ namespace DevFreela.Application.Services.Implementations
         public int Create(NewProjectInputModel inputModel)
         {
             var project = new Project(inputModel.Title, inputModel.Description, inputModel.IdClient, inputModel.IdFreelancer, inputModel.TotalCost);
-            
+
             _dbContext.Projects.Add(project);
             _dbContext.SaveChanges();
 
@@ -41,7 +41,7 @@ namespace DevFreela.Application.Services.Implementations
 
         public void Delete(int id)
         {
-            var project = _dbContext.Projects.SingleOrDefault(p => p.Id ==id);
+            var project = _dbContext.Projects.SingleOrDefault(p => p.Id == id);
             project.Cancel();
             _dbContext.SaveChanges();
         }

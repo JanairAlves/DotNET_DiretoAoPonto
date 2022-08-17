@@ -1,7 +1,6 @@
 ﻿using DevFreela.Core.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
 
 namespace DevFreela.Infrastructure.Persistence.Configurations
 {
@@ -15,12 +14,14 @@ namespace DevFreela.Infrastructure.Persistence.Configurations
             builder
                 .HasOne(p => p.Project)
                 .WithMany(p => p.Comments)
-                .HasForeignKey(p => p.IdProject);
+                .HasForeignKey(p => p.IdProject)
+                .OnDelete(DeleteBehavior.Restrict);
 
             builder
                 .HasOne(p => p.User)
                 .WithMany(p => p.Comments)
-                .HasForeignKey(p => p.IdUser);
+                .HasForeignKey(p => p.IdUser)
+                .OnDelete(DeleteBehavior.Restrict);
         }
     }
 }

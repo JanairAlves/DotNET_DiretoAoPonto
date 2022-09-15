@@ -53,7 +53,7 @@ namespace DevFreela.Core.Entities
         {
             if(Status == ProjectStatusEnum.InProgress)
             {
-                Status = ProjectStatusEnum.InProgress;
+                Status = ProjectStatusEnum.Finished;
                 FinishedAt = DateTime.Now;
             }
         }

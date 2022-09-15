@@ -41,29 +41,5 @@ namespace DevFreela.Application.Services.Implementations
 
             return userDetailsViewModel;
         }
-
-        public int Create(NewUserInputModel inputModel)
-        {
-            var user = new User(inputModel.FullName, inputModel.Email, inputModel.BirthDate);
-            _dbContext.Users.Add(user);
-            _dbContext.SaveChanges();
-
-            return user.Id;
-        }
-
-        public void Update(UpdateUserInputModel inputModel)
-        {
-            var user = _dbContext.Users.SingleOrDefault(u => u.Id == inputModel.Id);
-
-            user.Update(inputModel.FullName, inputModel.Email, inputModel.BirthDate , inputModel.Active);
-            _dbContext.SaveChanges();
-        }
-
-        public void Delete(int id)
-        {
-            var user = _dbContext.Users.SingleOrDefault(u => u.Id == id);
-            user.Cancel();
-            _dbContext.SaveChanges();
-        }
     }
 }

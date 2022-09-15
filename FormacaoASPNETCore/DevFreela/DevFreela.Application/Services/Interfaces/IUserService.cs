@@ -8,8 +8,5 @@ namespace DevFreela.Application.Services.Interfaces
     {
         List<UserDetailsViewModel> GetAll(string query);
         UserDetailsViewModel GetById(int id);
-        int Create(NewUserInputModel inputModel);
-        void Update(UpdateUserInputModel inputModel);
-        void Delete(int id);
     }
 }

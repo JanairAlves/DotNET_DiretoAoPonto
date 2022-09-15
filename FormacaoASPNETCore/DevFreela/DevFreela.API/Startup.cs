@@ -1,7 +1,12 @@
 using DevFreela.API.Models;
+using DevFreela.Application.Commands.CreateProject;
+using DevFreela.Application.Commands.CreateProjectComment;
+using DevFreela.Application.Commands.CreateUser;
+using DevFreela.Application.Commands.StartProject;
 using DevFreela.Application.Services.Implementations;
 using DevFreela.Application.Services.Interfaces;
 using DevFreela.Infrastructure.Persistence;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -24,21 +29,17 @@ namespace DevFreela.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            /* Configuração do arquivo appsettings.json para porde iniciar o problema.
-             * Usar o parâmetro 'services' recebido na classe 'ConfigureServices' para chamar o método 'Configure',
-             * informa que vai ser do tipo 'OpeningTimeOption', em seguida usa a variável 'Configuration' do tipo da interface 'IConfiguration'
-             * para chamar o método 'GetSection' passando como parâmetro o nome da seção 'OpeningTime' que definimos dentro do arquivo 'appsetting.json'.
-             */
-            services.Configure<OpeningTimeOption>(Configuration.GetSection("OpeningTime"));
-
             var connectionString = Configuration.GetConnectionString("DevFreelaCs");
             services.AddDbContext<DevFreelaDbContext>(options => options.UseSqlServer(connectionString));
 
             services.AddScoped<IProjectService, ProjectService>();
             services.AddScoped<IUserService, UserService>();
-            services.AddScoped<ISkillService, SkillService>();
 
             services.AddControllers();
+
+            services.AddMediatR(typeof(CreateProjectCommand));
+            services.AddMediatR(typeof(CreateUserCommand));
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "DevFreela.API", Version = "v1" });

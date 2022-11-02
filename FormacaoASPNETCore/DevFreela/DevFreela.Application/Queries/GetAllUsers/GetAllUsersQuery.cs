@@ -1,12 +1,15 @@
-﻿using System;
+﻿using MediatR;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DevFreela.Application.Queries.GetAllUsers
 {
-    internal class GetAllUsersQuery
+    public class GetAllUsersQuery : IRequest<List<UserViewModel>>
     {
+        public GetAllUsersQuery(string query)
+        {
+            Query = query;
+        }
+
+        public string Query { get; private set; }
     }
 }

@@ -19,9 +19,9 @@ namespace DevFreela.API.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            var query = new GetAllSkillsQuery();
+            var getAllSkillsQuery = new GetAllSkillsQuery();
 
-            var skills = await _mediator.Send(query);
+            var skills = await _mediator.Send(getAllSkillsQuery);
 
             return Ok(skills);
         }

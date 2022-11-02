@@ -2,6 +2,8 @@
 using DevFreela.Application.Commands.CreateUser;
 using DevFreela.Application.Commands.DeleteUser;
 using DevFreela.Application.Commands.UpdateUser;
+using DevFreela.Application.Queries.GetAllUsers;
+using DevFreela.Application.Queries.GetUserById;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
@@ -17,11 +19,26 @@ namespace DevFreela.API.Controllers
             _mediator = mediator;
         }
 
-        // api/users/1
-        [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        [HttpGet]
+        public async Task<IActionResult> Get(string query)
         {
-            return Ok();
+            var getAllUsersQuery = new GetAllUsersQuery(query);
+            var users = await _mediator.Send(getAllUsersQuery);
+
+            return Ok(users);
+        }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(int id)
+        {
+            var query = new GetUserByIdQuery(id);
+
+            var user = await _mediator.Send(query);
+
+            if (user == null)
+                return NotFound();
+
+            return Ok(user);
         }
 
         // api/users

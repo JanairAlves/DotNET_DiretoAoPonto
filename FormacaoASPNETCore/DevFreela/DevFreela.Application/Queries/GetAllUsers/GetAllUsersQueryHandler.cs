@@ -1,4 +1,6 @@
 ﻿using DevFreela.Application.Queries.GetUserById;
+using DevFreela.Application.ViewModels;
+using DevFreela.Core.Respositories;
 using DevFreela.Infrastructure.Persistence;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -13,19 +15,19 @@ namespace DevFreela.Application.Queries.GetAllUsers
 {
     public class GetAllUsersQueryHandler : IRequestHandler<GetAllUsersQuery, List<UserViewModel>>
     {
-        private readonly DevFreelaDbContext _dbContext;
-        public GetAllUsersQueryHandler(DevFreelaDbContext dbContext)
+        private readonly IUserRepository _userRepository;
+        public GetAllUsersQueryHandler(IUserRepository userRepository)
         {
-            _dbContext = dbContext;
+            _userRepository = userRepository;
         }
 
         public async Task<List<UserViewModel>> Handle(GetAllUsersQuery request, CancellationToken cancellationToken)
         {
-            var users = _dbContext.Users;
+            var users = await _userRepository.GetAllAsync();
 
-            var usersViewModel = await users
+            var usersViewModel = users
                 .Select(u => new UserViewModel(u.Id, u.FullName, u.Active))
-                .ToListAsync();
+                .ToList();
 
             return usersViewModel;
         }

@@ -1,4 +1,4 @@
-﻿namespace DevFreela.Application.Queries.GetAllUsers
+﻿namespace DevFreela.Application.ViewModels
 {
     public class UserViewModel
     {

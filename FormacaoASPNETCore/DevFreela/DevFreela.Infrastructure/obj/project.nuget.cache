@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E3mPj+mkCor1beoivIFIqWrDW57YaLs+kXMPkv2WTQHh+QjVw9nDuYINyQmsFKc1OZ/+S3XCOn9jCgOJRf2mSQ==",
+  "dgSpecHash": "gAfelaM+j328zGjLvPpFGmI1L5KjpUZLDH4pCyDyd0Z8sIBryOiZI3u9lh6xuAPeAC8JamIrEkuLekZIGQ+Btw==",
   "success": true,
   "projectFilePath": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\janai\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\janai\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\janai\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\janai\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

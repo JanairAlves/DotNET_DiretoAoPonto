@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TLwoWn+ZnXIFDYbiL1rf+UHy2xVdqPIUuPKLLTakMWI8zFp6HI7AgIET9pJt4frPZjxXkOGBsxQ3i+nKyaGNtw==",
+  "dgSpecHash": "QRg+tHrDq28sLzQxBo46HUkwqZRm3TKTe8Zjwm9c6vwZ+hrDdDvQMcva2fCVG40PWw7tKqzK3h8EztBmaohJ/w==",
   "success": true,
   "projectFilePath": "D:\\Estudo\\BackEnd\\CSharp\\LuisDev\\DotNET_DiretoAoPonto\\FormacaoASPNETCore\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\janai\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\janai\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\janai\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.1\\fluentvalidation.aspnetcore.9.5.1.nupkg.sha512",
+    "C:\\Users\\janai\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.1\\fluentvalidation.dependencyinjectionextensions.9.5.1.nupkg.sha512",
     "C:\\Users\\janai\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\janai\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\janai\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

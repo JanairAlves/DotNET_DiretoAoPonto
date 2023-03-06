@@ -65,3 +65,15 @@ D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFree
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\Dapper.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\FluentValidation.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\MediatR.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\MediatR.Contracts.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\obj\Debug\net5.0\staticwebassets\DevFreela.API.StaticWebAssets.Pack.cache
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\obj\Debug\net5.0\staticwebassets\msbuild.DevFreela.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\obj\Debug\net5.0\staticwebassets\msbuild.build.DevFreela.API.props
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DevFreela.API.props
+D:\Estudo\BackEnd\CSharp\LuisDev\DotNET_DiretoAoPonto\FormacaoASPNETCore\DevFreela\DevFreela.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DevFreela.API.props

@@ -1,6 +1,4 @@
-﻿using DevFreela.Application.Services.Interfaces;
-using DevFreela.Application.InputModels;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using MediatR;
 using DevFreela.Application.Commands.CreateProject;
 using System.Threading.Tasks;
@@ -52,9 +50,6 @@ namespace DevFreela.API.Controllers
         [HttpPost]
         public async Task<IActionResult>  Post([FromBody] CreateProjectCommand command)
         {
-            if (command.Title.Length > 50)
-                return BadRequest();
-
             var id = await _mediator.Send(command);
 
             return CreatedAtAction(nameof(GetById), new { id = id }, command);
@@ -84,7 +79,7 @@ namespace DevFreela.API.Controllers
 
         // api/projects/1/comments POST
         [HttpPost("{id}/comments")]
-        public async Task<IActionResult> PostComment(int id, [FromBody] CreateCommentCommand command)
+        public async Task<IActionResult> PostComment(int id, [FromBody] CreateProjectCommentCommand command)
         {
             await _mediator.Send(command);
             return NoContent();

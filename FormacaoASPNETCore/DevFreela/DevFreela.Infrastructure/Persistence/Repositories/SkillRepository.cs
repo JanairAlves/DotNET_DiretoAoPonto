@@ -26,6 +26,7 @@ namespace DevFreela.Infrastructure.Persistence.Repositories
                 var script = "SELECT Id, Description FROM Skills";
 
                 var skills = await sqlConnection.QueryAsync<SkillDTO>(script);
+
                 return skills.ToList();
             }
 
